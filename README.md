@@ -35,6 +35,7 @@ The Distance Converter is a user-friendly tool that allows you to convert distan
 - CSS (Bootstrap for styling)
 - JavaScript
 
-License
+## License
+
 This project is licensed under the [MIT License]().
 
