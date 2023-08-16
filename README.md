@@ -37,5 +37,5 @@ The Distance Converter is a user-friendly tool that allows you to convert distan
 
 ## License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](LICENSE).
 
