@@ -24,7 +24,7 @@ The Distance Converter is a user-friendly tool that allows you to convert distan
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/distance-converter.git
+   git clone https://github.com/joyelere/distance-converter.git
 
 2. Open the index.html file in your browser.
 
